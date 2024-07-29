@@ -1,0 +1,6 @@
+# Available languages:
+# de → german | deutsch
+# en → english | english
+lang: en
+has-played: false
+start-size: 1

@@ -1,0 +1,65 @@
+# Gradle-specific files
+.gradle/
+build/
+
+# Gradle wrapper files
+!gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+
+# Java-specific files
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# NetBeans specific files
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code specific files
+.vscode/
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux specific files
+*~
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+*.orig
+
+# Other
+**/logs/
+**/tmp/
+**/temp/
+**/cache/
+**/caches/
+*.lock

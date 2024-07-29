@@ -1,0 +1,13 @@
+name: LevelBorderPlugin
+version: '1.0-SNAPSHOT'
+main: net.fameless.levelBorder.LevelBorderPlugin
+api-version: '1.20'
+author: Fameless9
+prefix: LevelBorder
+
+commands:
+  language:
+    permission: levelborder.lang
+  levelborder:
+    permission: levelborder.command
+    aliases: [lb]

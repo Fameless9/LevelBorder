@@ -1,0 +1,13 @@
+{
+  "prefix": "<gold><bold>LB <!bold><dark_gray>»<reset> ",
+  "lb-command-usage": "{prefix}<gray>Usage: /lb <start|pause|settime|startsize> <time|size>",
+  "join-message": "{prefix}<gray>Start the challenge with /lb start. Adjust further settings with /lb.",
+  "not-a-player": "{prefix}<red>Only players may use this command!",
+  "challenge-running": "{prefix}<red>The challenge is already running.",
+  "challenge-paused": "{prefix}<red>The challenge is already paused.",
+  "timer-running": "<gold>{timer.time} <gray>- <gold>Size: {border.size}",
+  "timer-paused": "<gold><italic>Timer paused.",
+  "time-not-a-number": "{prefix}<red>Time argument must be a number!",
+  "size-not-a-number": "{prefix}<red>Size argument must be a number!",
+  "adjust-language": "Adjust language"
+}
