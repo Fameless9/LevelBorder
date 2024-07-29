@@ -43,7 +43,7 @@ public final class LevelBorderPlugin extends JavaPlugin {
         getCommand("language").setExecutor(languageCommand);
 
         new Metrics(this, 22785);
-        new UpdateChecker(this, 1, Duration.ofHours(2));
+        new UpdateChecker(this, 118480, Duration.ofHours(2));
     }
 
     @Override
